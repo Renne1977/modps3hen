@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenidogeneral {
+	float: left;
+	width: 100%;
+	background-color: #000;
+}
+#contenidogeneral #imagenlogo1 {
+	float: left;
+	width: 20%;
+	height: 20%;
+	background-color: #000;
+}
+#contenidogeneral #nombre {
+	float: left;
+	width: 60%;
+	height: 20%;
+	background-color: #000;
+}
+#contenidogeneral #imagenlogo2 {
+	float: left;
+	width: 20%;
+	height: 20%;
+	background-color: #000;
+}
+#contenidogeneral #imagenlogo1 img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+#contenidogeneral #imagenlogo2 img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+#contenidogeneral #nombre img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+#contenidogeneral #slider {
+	float: left;
+	width: 100%;
+	background-color: #000;
+	color: #FFF;
+}
+#contenidogeneral #menu {
+	float: left;
+	width: 100%;
+	background-color: #90F;
+}
+#contenidogeneral #contenido {
+	float: left;
+	width: 100%;
+	background-color: #000;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#contenidogeneral #piedepagina {
+	float: left;
+	width: 100%;
+	background-color: #93F;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#contenidogeneral #piedepagina #logofb {
+	height: 45px;
+	width: 45px;
+	margin: 5%;
+	float: left;
+	padding-left: 30%;
+}
+#contenidogeneral #piedepagina #contacto {
+	float: left;
+	margin-top: 6%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+}
+
+#contenidogeneral #piedepagina #logofb img {
+	float: left;
+	height: 100%;
+	width: 100%;
+}
+#contenidogeneral #hislider1 {
+	float: left;
+	width: 100%;
+}
+#contenidogeneral #contenido #indexinfo1 {
+	float: left;
+	text-align: justify;
+	color: #FFF;
+	background-color: #000;
+	padding-right: 20%;
+	padding-left: 20%;
+	font-size: 14px;
+}
+#contenidogeneral #contenido #blank1 {
+	float: left;
+	width: 20%;
+	background-color: #000;
+	height: 100%;
+}
+#contenidogeneral #contenido #blank2 {
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+#contenidogeneral img {
+	width: 80%;
+}
+#contenidogeneral #contenido #ps3games {
+	float: left;
+	width: 100%;
+	font-size: 14px;
+}
+#contenidogeneral #contenido #ps2games b center img {
+	width: 30%;
+}
+
+#contenidogeneral #contenido #ps2games {
+	font-size: 14px;
+	float: left;
+	width: 100%;
+}
+
+#contenidogeneral #contenido #ps3games b center img {
+	width: 30%;
+}
+#contenidogeneral #contenido #ps1games {
+	font-size: 14px;
+	float: left;
+	width: 100%;
+}
+#contenidogeneral #contenido #ps1games b center img {
+	width: 30%;
+}
+#contenidogeneral #contenido #pspgames {
+	font-size: 14px;
+	float: left;
+	width: 100%;
+}
+#contenidogeneral #contenido #pspgames b center img {
+	width: 30%;
+}
